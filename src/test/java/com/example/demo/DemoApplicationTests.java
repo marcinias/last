@@ -10,7 +10,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		//Assertions.fail("ups test failed !");
-		System.out.println("bi");
+
 	}
 
 }
