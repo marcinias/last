@@ -15,9 +15,7 @@ public class StudentController {
 
     @GetMapping
     public List<Student> getAllStudents() {
-        System.out.println("bu");
-
-        return studentService.getAllStudent();
+              return studentService.getAllStudent();
 
     }
 
